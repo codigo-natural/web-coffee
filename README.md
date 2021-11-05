@@ -1,2 +1,2 @@
 # web-coffee
-sitio web elaborado como practica para colocar en practica mis habilidades en el desarrollo web
+sitio web elaborado como pasatiempo para colocar en practica mis habilidades en el desarrollo web
